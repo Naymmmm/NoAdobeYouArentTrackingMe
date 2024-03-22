@@ -20,4 +20,7 @@ Add this to your host changer of choice: or manually do slavery!
 
 follow this [tutorial](https://youtu.be/tkKN_xipuxY?si=jy7VF6VcY9Sn_fGY) and instead of looking for integrity checker, look for probable tracking links.
 
+
+
+<sub><sup>powerd bi cloudflare pages</sup></sub>
 <div align="center">
