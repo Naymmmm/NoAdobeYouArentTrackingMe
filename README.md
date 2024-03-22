@@ -1,6 +1,6 @@
 
 <div align="center">
-<a href=https://ihatetrackers.pages.dev><img src="https://github.com/ignaciocastro/adobe-is-dumb/blob/assets/header.jpg?raw=true"></a>
+<a href=https://ihatetrackers.pages.dev><img src="https://ihatetrackers.pages.dev/banner"></a>
 
 
 # No Adobe, you aren't tracking me.
