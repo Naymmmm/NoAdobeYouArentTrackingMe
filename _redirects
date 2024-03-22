@@ -1,3 +1,5 @@
 / /hosts.txt 301
 /banner /AssetContainer/banner.png 301
 /firefly /firefly.txt 301
+/css /Website/styles.css 301
+/what /Website/wtf.html 301
