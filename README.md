@@ -1,2 +1,20 @@
-# NoAdobeYouArentTrackingMe
-No Adobe, you aren't fucking tracking me.
+
+![Logo](https://raw.githubusercontent.com/Naymmmm/NoAdobeYouArentTrackingMe/main/AssetContainer/banner.png)
+
+
+# No Adobe, you aren't tracking me.
+
+*Adobe, you aren't fucking tracking me.*
+
+## Wtf is this?
+Host blocking list to tell Adobe trackers to kys.
+## FAQ
+
+#### how 2 use
+
+Switchhosts using raw github or whatever.
+
+#### kyz!!!
+
+no
+
