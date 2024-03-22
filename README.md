@@ -13,9 +13,9 @@ Host blocking list to tell Adobe trackers to kys.
 
 #### how 2 use
 
-Switchhosts using raw github or whatever.
+Add this to your host changer of choice: or manually do slavery!
 
-#### kyz!!!
+#### omg adobe track me
 
-no
+follow this [tutorial](https://youtu.be/tkKN_xipuxY?si=jy7VF6VcY9Sn_fGY) and instead of looking for integrity checker, look for probable tracking links.
 
