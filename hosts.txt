@@ -3,6 +3,8 @@
 0.0.0.0 hbrcv.adobe.io
 0.0.0.0 hbrt.adobe.com
 0.0.0.0 udps.adobe.com
+0.0.0.0 ss-prod-an1-ns.aws.adobess.com
+0.0.0.0 p13n.adobe.io
 
 
 # END NAYAT
