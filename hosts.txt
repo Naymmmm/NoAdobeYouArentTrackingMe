@@ -1,6 +1,8 @@
 # START NAYAT
 
 0.0.0.0 hbrcv.adobe.io
+0.0.0.0 hbrt.adobe.com
+0.0.0.0 udps.adobe.com/fetch_user_tracking_flag
 
 
 # END NAYAT
