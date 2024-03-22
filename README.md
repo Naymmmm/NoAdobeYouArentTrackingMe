@@ -5,7 +5,7 @@
 # No Adobe, you aren't tracking me.
 
 *Adobe, you aren't fucking tracking me.*
-[click me to open](https://ihatetrackers.pages.dev/)
+[<sub><sup>click me to open !!!1</sup></sub>](https://ihatetrackers.pages.dev/)
 
 ## Wtf is this?
 Host blocking list to tell Adobe trackers to kys.
