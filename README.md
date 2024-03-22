@@ -1,6 +1,6 @@
 
 <div align="center">
-![Logo](https://raw.githubusercontent.com/Naymmmm/NoAdobeYouArentTrackingMe/main/AssetContainer/banner.png)
+<a href=https://ihatetrackers.pages.dev><img src="https://github.com/ignaciocastro/adobe-is-dumb/blob/assets/header.jpg?raw=true"></a>
 
 
 # No Adobe, you aren't tracking me.
