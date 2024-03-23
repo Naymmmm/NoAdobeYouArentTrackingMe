@@ -22,6 +22,6 @@ follow this [tutorial](https://youtu.be/tkKN_xipuxY?si=jy7VF6VcY9Sn_fGY) and ins
 
 
 
-<br>
-[<sub><sup><sub>see the better version</sub></sup></sub>](https://ihatetrackers.pages.dev/what)
+
+[<sub><sup>see the cooler version</sup></sub>](https://ihatetrackers.pages.dev/what)
 <div align="center">
