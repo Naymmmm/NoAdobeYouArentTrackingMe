@@ -1,4 +1,3 @@
-
 <div align="center">
 <a href=https://ihatetrackers.pages.dev><img src="https://ihatetrackers.pages.dev/banner"></a>
 
@@ -6,6 +5,7 @@
 # No Adobe, you aren't tracking me.
 
 *Adobe, you aren't fucking tracking me.*
+<br>
 [<sub><sup>click me to open !!!1</sup></sub>](https://ihatetrackers.pages.dev/)
 
 ## Wtf is this?
@@ -23,4 +23,7 @@ follow this [tutorial](https://youtu.be/tkKN_xipuxY?si=jy7VF6VcY9Sn_fGY) and ins
 
 
 <sub><sup>powerd bi cloudflare pages</sup></sub>
+<br>
+<br>
+[<sub><sup><sub>see the better version</sub></sup></sub>](https://ihatetrackers.pages.dev/what)
 <div align="center">
