@@ -22,7 +22,6 @@ follow this [tutorial](https://youtu.be/tkKN_xipuxY?si=jy7VF6VcY9Sn_fGY) and ins
 
 
 
-<sub><sup>powerd bi cloudflare pages</sup></sub>
 <br>
 <br>
 [<sub><sup><sub>see the better version</sub></sup></sub>](https://ihatetrackers.pages.dev/what)
